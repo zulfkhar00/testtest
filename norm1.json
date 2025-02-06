@@ -1,0 +1,272 @@
+[
+    {
+        "airlineCode": "3U",
+        "airlineName": "Sichuan Airlines",
+        "airlineNameEN": "Sichuan Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Sichuan Airlines"
+    },
+    {
+        "airlineCode": "5J",
+        "airlineName": "Cebu Pacific",
+        "airlineNameEN": "Cebu Pacific Air",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Cebu Pacific"
+    },
+    {
+        "airlineCode": "A3",
+        "airlineName": "Aegean Airlines",
+        "airlineNameEN": "AEGEAN",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Aegean Airlines"
+    },
+    {
+        "airlineCode": "AF",
+        "airlineName": "Air France",
+        "airlineNameEN": "Air France",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "Air France"
+    },
+    {
+        "airlineCode": "BR",
+        "airlineName": "EVA Air",
+        "airlineNameEN": "Eva Air",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "EVA Air"
+    },
+    {
+        "airlineCode": "CA",
+        "airlineName": "Air China",
+        "airlineNameEN": "Air China",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Air China"
+    },
+    {
+        "airlineCode": "CX",
+        "airlineName": "Cathay Pacific",
+        "airlineNameEN": "Cathay Pacific",
+        "allianceInfo": {
+            "allianceName": "ONEWORLD",
+            "allianceNameEN": "ONEWORLD"
+        },
+        "shortName": "Cathay Pacific"
+    },
+    {
+        "airlineCode": "CZ",
+        "airlineName": "China Southern Airlines",
+        "airlineNameEN": "China Southern Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "China Southern Airlines"
+    },
+    {
+        "airlineCode": "EK",
+        "airlineName": "Emirates",
+        "airlineNameEN": "Emirates",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Emirates"
+    },
+    {
+        "airlineCode": "ET",
+        "airlineName": "Ethiopian Airlines",
+        "airlineNameEN": "Ethiopian Airlines",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Ethiopian Airlines"
+    },
+    {
+        "airlineCode": "F3",
+        "airlineName": "flyadeal",
+        "airlineNameEN": "flyadeal Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "flyadeal"
+    },
+    {
+        "airlineCode": "FM",
+        "airlineName": "Shanghai Airlines",
+        "airlineNameEN": "Shanghai Airlines",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "Shanghai Airlines"
+    },
+    {
+        "airlineCode": "GA",
+        "airlineName": "Garuda Indonesia",
+        "airlineNameEN": "Garuda Indonesia",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "Garuda Indonesia"
+    },
+    {
+        "airlineCode": "HO",
+        "airlineName": "Juneyao Airlines",
+        "airlineNameEN": "Juneyao Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Juneyao Airlines"
+    },
+    {
+        "airlineCode": "HU",
+        "airlineName": "Hainan Airlines",
+        "airlineNameEN": "Hainan Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Hainan Airlines"
+    },
+    {
+        "airlineCode": "HX",
+        "airlineName": "Hong Kong Airlines",
+        "airlineNameEN": "Hong Kong Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Hong Kong Airlines"
+    },
+    {
+        "airlineCode": "KE",
+        "airlineName": "Korean Air",
+        "airlineNameEN": "Korean Air",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "Korean Air"
+    },
+    {
+        "airlineCode": "KL",
+        "airlineName": "KLM Royal Dutch Airlines",
+        "airlineNameEN": "KLM Royal Dutch Airlines",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "KLM Royal Dutch Airlines"
+    },
+    {
+        "airlineCode": "LX",
+        "airlineName": "Swiss",
+        "airlineNameEN": "Swiss",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Swiss"
+    },
+    {
+        "airlineCode": "MH",
+        "airlineName": "Malaysia Airlines",
+        "airlineNameEN": "Malaysia Airlines",
+        "allianceInfo": {
+            "allianceName": "ONEWORLD",
+            "allianceNameEN": "ONEWORLD"
+        },
+        "shortName": "Malaysia Airlines"
+    },
+    {
+        "airlineCode": "MU",
+        "airlineName": "China Eastern Airlines",
+        "airlineNameEN": "China Eastern Airlines",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "China Eastern Airlines"
+    },
+    {
+        "airlineCode": "PR",
+        "airlineName": "Philippine Airlines",
+        "airlineNameEN": "Philippine Airlines",
+        "allianceInfo": {
+            "allianceName": "",
+            "allianceNameEN": ""
+        },
+        "shortName": "Philippine Airlines"
+    },
+    {
+        "airlineCode": "QR",
+        "airlineName": "Qatar Airways",
+        "airlineNameEN": "Qatar Airways",
+        "allianceInfo": {
+            "allianceName": "ONEWORLD",
+            "allianceNameEN": "ONEWORLD"
+        },
+        "shortName": "Qatar Airways"
+    },
+    {
+        "airlineCode": "SQ",
+        "airlineName": "Singapore Airlines",
+        "airlineNameEN": "Singapore Airlines",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Singapore Airlines"
+    },
+    {
+        "airlineCode": "SV",
+        "airlineName": "Saudia",
+        "airlineNameEN": "Saudia",
+        "allianceInfo": {
+            "allianceName": "SKYTEAM",
+            "allianceNameEN": "SKYTEAM"
+        },
+        "shortName": "Saudia"
+    },
+    {
+        "airlineCode": "TG",
+        "airlineName": "Thai Airways",
+        "airlineNameEN": "Thai Airways",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Thai Airways"
+    },
+    {
+        "airlineCode": "TK",
+        "airlineName": "Turkish Airlines",
+        "airlineNameEN": "Turkish Airlines",
+        "allianceInfo": {
+            "allianceName": "STARALLIANCE",
+            "allianceNameEN": "STARALLIANCE"
+        },
+        "shortName": "Turkish Airlines"
+    }
+]

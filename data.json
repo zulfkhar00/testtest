@@ -1,0 +1,17 @@
+{
+    "cacheHit": "true",
+    "cacheKey": "global:flight_list:1286269045196331238:1286269045196331239:2025-02-20:CTRIP:6722684931643801868:USD",
+    "clusterEnv": "",
+    "daysUntilDeparture": "\u000f",
+    "dcEnv": "",
+    "employeeUnionId": "U1839624544839540736",
+    "isOneWay": "\u0001",
+    "logDate": "2025-02-05",
+    "logDateTime": "2025-02-05 21:53:19",
+    "logID": "",
+    "monitorType": "oversea_ocr_diff_statistics",
+    "psm": "",
+    "request": "{\"routeInfos\":[{\"departureCityRegionCode\":\"1286269045196331238\",\"arrivalCityRegionCode\":\"1286269045196331239\",\"departureDate\":\"2025-02-20\"}],\"filterInfo\":{\"cabinClass\":1,\"tripType\":1,\"stopoverCities\":null,\"routeControl\":null,\"cabinClassList\":[1,2,3,4],\"passengerInfoTypeList\":[{\"passengerType\":1,\"count\":1}]},\"supplier\":1,\"tenantID\":6722684931643801868,\"oversea\":true,\"tenantCompanyCode\":\"Bytedance FZ-LLC\",\"lang\":\"\",\"chinaDomestic\":true,\"gwCtx\":{\"UserId\":7409940355132424223,\"TenantID\":6722684931643801868,\"TerminalType\":0,\"IsAnonymousUser\":false,\"AuthResult\":0,\"SessionUUID\":\"\",\"PassportAppId\":0,\"UserBrand\":\"\",\"ExpenseTenantCompanyCode\":\"Bytedance FZ-LLC\",\"ExpenseTenantUnionId\":\"U1262302823148687360\",\"ExpenseGroupUnionId\":\"U1262302823148687361\",\"ExpenseEmployeeNumber\":\"8816510\",\"ExpenseEmployeeUnionId\":\"U1839624544839540736\",\"gadgetVersion\":null,\"timezone\":null,\"lang\":\"en-US\",\"UserBaseLocationCode\":\"AE\",\"Email\":\"[exactRegex]Mail\",\"NationalityCode\":\"KZ\",\"Nationality\":\"\",\"frontendType\":null,\"authToken\":\"\",\"peopleCompanyIdForBooking\":\"\",\"EmployeeLegalName\":\"**************y\",\"IsOverseaCompanyCode\":true},\"Base\":{\"LogID\":\"\",\"Caller\":\"\",\"Addr\":\"\",\"Client\":\"\"}}",
+    "traceID": "",
+    "userCurrency": "$"
+}

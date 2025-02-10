@@ -1,0 +1,78 @@
+[
+    {
+        "flightInfo": {
+            "seatClass": 2,
+            "tripType": 1,
+            "seatClassList": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "passengerInfoTypeList": [
+                {
+                    "passengerType": 1,
+                    "count": 1
+                }
+            ],
+            "passengerNationalityList": []
+        },
+        "routeInfos": [
+            {
+                "departureCityRegionCode": "1286269045196331239",
+                "departureAirportCode": "",
+                "arrivalCityRegionCode": "1286269045196331667",
+                "arrivalAirportCode": "CGK",
+                "departureDate": "2025-02-10"
+            }
+        ],
+        "flightSegmentControl": null,
+        "segment": 1,
+        "supplierType": null,
+        "userId": 7409940355132424223,
+        "tenantId": 6722684931643801868,
+        "tenantCompanyCode": "Bytedance FZ-LLC",
+        "flightDataSource": 2,
+        "chinaDomestic": false,
+        "gwCtx": {
+            "UserId": 7409940355132424223,
+            "TenantID": 6722684931643801868,
+            "TerminalType": 0,
+            "IsAnonymousUser": false,
+            "AuthResult": 0,
+            "SessionUUID": "",
+            "PassportAppId": 0,
+            "UserBrand": "",
+            "ExpenseTenantCompanyCode": "Bytedance FZ-LLC",
+            "ExpenseTenantUnionId": "U1262302823148687360",
+            "ExpenseGroupUnionId": "U1262302823148687361",
+            "ExpenseEmployeeNumber": "8816510",
+            "ExpenseEmployeeUnionId": "U1839624544839540736",
+            "gadgetVersion": null,
+            "timezone": null,
+            "lang": "zh-CN",
+            "UserBaseLocationCode": "AE",
+            "Email": "[exactRegex]Mail",
+            "NationalityCode": "KZ",
+            "Nationality": "",
+            "frontendType": null,
+            "authToken": "",
+            "peopleCompanyIdForBooking": null,
+            "EmployeeLegalName": "**************y",
+            "IsOverseaCompanyCode": true
+        },
+        "Base": {
+            "LogID": "20250207113852FFFF51790C0000000148931940669",
+            "Caller": "ea.expense.travel_flight_staging",
+            "Addr": "2605:340:cd52:700:a7f1:fe66:82c1:a307",
+            "Client": "",
+            "Extra": {
+                "cluster": "default",
+                "env": "ppe_flight_optimization",
+                "idc": "mycisb",
+                "stress_tag": "",
+                "user_extra": "{\"RPC_PERSIST_LARK_CTX_KEY\":\"{\\\"Ikv\\\":{},\\\"Skv\\\":{\\\"K_LOGID\\\":\\\"202502070521406E762B4E4F0D720CEC2B\\\"}}\",\"RPC_PERSIST_ORI_PSM\":\"lark.apigw.apigw_biz\",\"RPC_PERSIST_ORI_PATH\":\"/bff/flight/item/flightList\",\"RPC_PERSIST_TRAVEL_LARK_USER_ID\":\"7409940355132424223\",\"RPC_PERSIST_SERVICE_LEVEL\":\"32847\",\"RPC_PERSIST_LARK_BRAND_CTX_KEY\":\"ChR0cmF2ZWwuYnl0ZWRhbmNlLmNvbRIGZmVpc2h1\",\"RPC_PERSIST_PATH\":\"/api/bff/flight/item/flightList\",\"RPC_PERSIST_REQUEST_FROM_LARK_OPENAPI\":\"false\",\"RPC_PERSIST_ori_psm\":\"ea.expense.travel_bff_staging\",\"RPC_PERSIST_PSM\":\"lark.apigw.apigw_biz\",\"RPC_PERSIST_HOST\":\"travel.bytedance.com\"}"
+            }
+        }
+    }
+]

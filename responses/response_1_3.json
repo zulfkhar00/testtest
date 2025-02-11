@@ -1,0 +1,10 @@
+{
+  "code": 30300,
+  "data": {
+    "alliances": [],
+    "extraInfo": {},
+    "flights": [],
+    "transactionID": ""
+  },
+  "msg": "resource expired"
+}

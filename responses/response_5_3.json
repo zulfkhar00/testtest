@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": {
+    "alliances": [
+      {
+        "airlineCodes": [
+          "BA"
+        ],
+        "allianceName": {
+          "valueMap": {
+            "en": "Oneworld",
+            "zh": "\u5bf0\u5b87\u4e00\u5bb6"
+          }
+        }
+      }
+    ],
+    "extraInfo": {
+      "noEconomyCabinTag": ""
+    },
+    "flights": [],
+    "transactionID": "6722684931643801868:7409940355132424223:c5a3bd5e-ab57-4b81-a072-c48240e075c7"
+  },
+  "msg": "Success"
+}
